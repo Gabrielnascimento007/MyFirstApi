@@ -1,0 +1,6 @@
+@MyFirtsApi_HostAddress = http://localhost:5103
+
+GET {{MyFirtsApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
