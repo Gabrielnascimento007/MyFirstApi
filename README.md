@@ -2,6 +2,7 @@
 Este projeto é uma API desenvolvida com ASP.NET Core, com o objetivo de praticar os conceitos iniciais de APIs REST utilizando Swagger, Controllers, herança entre entidades, e organização em camadas como Requests, Responses e Entities.
 
 ---
+
 🧠 Conceitos Aplicados
 ✅ Criação de API com ASP.NET Core
 
@@ -16,6 +17,7 @@ Este projeto é uma API desenvolvida com ASP.NET Core, com o objetivo de pratica
 ✅ Separação clara entre lógica de negócio e modelos de dados
 
 ---
+
 📁 Estrutura do Projeto
 bash
 Copiar
@@ -44,6 +46,7 @@ MyFirstApi/
 ├── appsettings.json
 ├── MyFirstApi.http
 └── README.md
+
 ---
 
 📂 Controllers
@@ -78,6 +81,7 @@ bash
 Copiar
 Editar
 https://localhost:5001/swagger
+
 ---
 
 ✅ Próximos Passos
